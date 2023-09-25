@@ -55,6 +55,7 @@ export class HomePage {
       'OpenStreetMap': basemapGroup.getLayers()[0],
     });
 
+
     //menambahkan basemap kontrol ke dalam map
     basemapControl.addTo(this.map);
 
