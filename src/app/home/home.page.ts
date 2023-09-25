@@ -53,7 +53,7 @@ export class HomePage {
       'Topo-Vector': basemapGroup.getLayers()[2],
       'Black Carto DB': basemapGroup.getLayers()[3],
       'OpenStreetMap': basemapGroup.getLayers()[0],
-    });
+    }); 
 
 
     //menambahkan basemap kontrol ke dalam map
